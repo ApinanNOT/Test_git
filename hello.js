@@ -1,4 +1,4 @@
-Hello
+print "Hello"
 World
 Computer
 import React from 'react';
